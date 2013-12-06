@@ -1,0 +1,8 @@
+---
+applications:
+- name: phpMyAdmin
+  memory: 256M
+  instances: 1
+  host: phpMyAdmin
+  path: .
+  buildpack: https://github.com/iphoting/heroku-buildpack-php-tyler
