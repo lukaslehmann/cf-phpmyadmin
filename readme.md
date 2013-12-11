@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1ojU5lFgVcLf9BCKIO481xdweFAb-Y3Vj1CM6KhmqSis
 
 ## Config and push process
 
-1. edit config file config.php.ini
+1. edit config file config.inc.php
   * Change parameters: $cfg['Servers'][$i]['host'], 
   * $cfg['Servers'][$i]['user']
   * $cfg['Servers'][$i]['password']
