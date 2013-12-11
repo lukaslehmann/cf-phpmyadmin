@@ -3,6 +3,6 @@ applications:
 - name: phpMyAdmin
   memory: 256M
   instances: 1
-  host: phpMyAdmin
+  host: mariadb
   path: .
   buildpack: https://github.com/iphoting/heroku-buildpack-php-tyler
